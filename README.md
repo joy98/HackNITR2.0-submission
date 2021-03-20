@@ -1,9 +1,15 @@
 # Screenshots
+### About team
 ![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/intro.png)
+### Dashboard
 ![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/dash.png)
+### Exercise Page
 ![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/ex_1.png)
+### Doing Exercise
 ![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/ex_2.png)
+### Healthcare Chat Bot
 ![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/ai.png)
+### Mealplan
 ![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/food.png)
 
 # Getting Started with Create React App
