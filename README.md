@@ -1,3 +1,11 @@
+# Screenshots
+![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/intro.png)
+![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/dash.png)
+![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/ex_1.png)
+![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/ex_2.png)
+![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/ai.png)
+![ScreenShot](https://github.com/joy98/HackNITR2.0-submission/raw/main/screenshots/food.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
